@@ -1,0 +1,12 @@
+# Secrets: API keys live here and must never reach GitHub
+.env
+
+# Python virtual environment (each person builds their own)
+.venv/
+
+# Python's auto-generated cache files
+__pycache__/
+*.pyc
+
+# Mac system files
+.DS_Store
